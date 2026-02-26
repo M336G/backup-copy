@@ -6,7 +6,7 @@
 ## Usage
 To use this program, download it from the [releases tab](https://github.com/M336G/backup-copy/releases/latest) and run this command:
 ```powershell
-backup-copy <input_path> <output_path>
+backup-copy.exe <input_path> <output_path>
 ```
 *(Here, `<input_path>` & `<output_path>` are placeholders; don't forget to replace them with your actual paths).*
 
